@@ -1,0 +1,5 @@
+{
+  "name": "TangoYoungNRW Schedule",
+  "description": "A simple event scheduling app for TangoYoungNRW with notification capabilities.",
+  "requestFramePermissions": []
+}
